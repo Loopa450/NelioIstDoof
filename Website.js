@@ -1,3 +1,3 @@
 function Button() {
-    alert("Hello World!")
+    alert("67 Viren werden auf dein Gerät geladen!")
 }
